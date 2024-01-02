@@ -1,0 +1,11 @@
+F:\LethalCompanyMods\Glowsteps\GlowSteps\obj\Debug\netstandard2.1\GlowSteps.csproj.AssemblyReference.cache
+F:\LethalCompanyMods\Glowsteps\GlowSteps\obj\Debug\netstandard2.1\MyPluginInfo.cs
+F:\LethalCompanyMods\Glowsteps\GlowSteps\obj\Debug\netstandard2.1\GlowSteps.GeneratedMSBuildEditorConfig.editorconfig
+F:\LethalCompanyMods\Glowsteps\GlowSteps\obj\Debug\netstandard2.1\GlowSteps.AssemblyInfoInputs.cache
+F:\LethalCompanyMods\Glowsteps\GlowSteps\obj\Debug\netstandard2.1\GlowSteps.AssemblyInfo.cs
+F:\LethalCompanyMods\Glowsteps\GlowSteps\obj\Debug\netstandard2.1\GlowSteps.csproj.CoreCompileInputs.cache
+F:\LethalCompanyMods\Glowsteps\GlowSteps\bin\Debug\netstandard2.1\NicholaScott.LethalCompany.GlowSteps.deps.json
+F:\LethalCompanyMods\Glowsteps\GlowSteps\bin\Debug\netstandard2.1\NicholaScott.LethalCompany.GlowSteps.dll
+F:\LethalCompanyMods\Glowsteps\GlowSteps\bin\Debug\netstandard2.1\NicholaScott.LethalCompany.GlowSteps.pdb
+F:\LethalCompanyMods\Glowsteps\GlowSteps\obj\Debug\netstandard2.1\NicholaScott.LethalCompany.GlowSteps.dll
+F:\LethalCompanyMods\Glowsteps\GlowSteps\obj\Debug\netstandard2.1\NicholaScott.LethalCompany.GlowSteps.pdb
